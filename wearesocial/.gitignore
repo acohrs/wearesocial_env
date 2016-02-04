@@ -1,0 +1,4 @@
+*.pyc
+*.wp
+
+localsettings.py
